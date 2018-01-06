@@ -1,0 +1,13 @@
+{
+    "name": "baraear/eloquent-documentable",
+    "description": "Creation of documents number to support ISO for your Eloquent models in Laravel framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baraear",
+            "email": "baraear@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
